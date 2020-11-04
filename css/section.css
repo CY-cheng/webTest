@@ -1,0 +1,37 @@
+body{
+    
+}
+p{
+    clear: both;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li a:link,nav ul li a:visited{
+    list-style-type: none;
+    color: black;
+    width: 160px;
+    height: 40px;
+    background-image: url(../images/button.png);
+    background-position: top;
+    display: block;
+    margin-right: 10px;
+    float: left;
+    text-align: center;
+    line-height: 40px;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    list-style-type: none;
+    color: black;
+    width: 160px;
+    height: 40px;
+    background-image: url(../images/button.png);
+    background-position: bottom;
+    display: block;
+    margin-right: 10px;
+    float: left;
+    text-align: center;
+    line-height: 40px;
+    text-decoration: none;
+}
